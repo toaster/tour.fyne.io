@@ -23,7 +23,7 @@ html, body {
   height: 100%;
   position: absolute;
   top: 0;
-  right: 0;
+  left: 50%;
 
   background-color: #f0f0f0;
   border-left: 5px solid #c0c0c0;
@@ -98,4 +98,3 @@ button.copyCode {
   z-index: 10;
   background-color: #fff;
 }
-
